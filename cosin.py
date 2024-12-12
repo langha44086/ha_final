@@ -151,7 +151,7 @@ elif choice == 'Gợi ý mã khách hàng':
 
 elif choice == 'Admin':
     st.header("🔐 Đăng nhập quản lý")
-    st.write("Tên:admin và pass: admin")
+    st.write("Tên: admin và pass: admin")
 
     if "logged_in" not in st.session_state:
         st.session_state["logged_in"] = False

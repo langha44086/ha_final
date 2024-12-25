@@ -62,7 +62,7 @@ menu = ["Business Objective", "Hiển thị chart", "Gợi ý sản phẩm", "G�
 choice = st.sidebar.selectbox('Menu', menu)
 
 st.sidebar.write("""#### Thành viên thực hiện:
-                 Phan Văn Minh & Cao Anh Hào""")
+                 Phan Văn Minh""")
 st.sidebar.write("""#### Giảng viên hướng dẫn: Ms Phương """)
 st.sidebar.write("""#### Ngày báo cáo tốt nghiệp: 16/12/2024""")
 
